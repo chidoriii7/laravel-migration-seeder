@@ -1,0 +1,1 @@
+reate un seeder per popolare la vostra tabella con almeno 50 treni utilizzando Faker.
